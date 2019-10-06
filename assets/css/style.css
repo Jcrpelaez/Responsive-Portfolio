@@ -248,5 +248,18 @@ input[type="submit"] {
      width: 30%;
      padding-left: 0;
      margin-left: 0;
+     float: left;
+     width: 100%
+   }
+   #logo {
+     width: 100%
+   }
+   a{
+     align-self: auto;
+   }
+   #main-container.container{
+     padding: 0;
+
+   }
+
    
-    }
